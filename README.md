@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- Golang
+- Javascript
+- SQL
 <!--
 **a-zit/a-zit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
