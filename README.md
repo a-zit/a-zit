@@ -1,4 +1,4 @@
-### Hi there, I'm Azit !!! 👋
+### Hi there, I'm Hashim !!! 👋
 - Golang
 - NodeJS
 - SQL
